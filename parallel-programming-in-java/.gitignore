@@ -1,6 +1,7 @@
 ##ignorethisfile##
 ./*/target/
 
+./target/*
 
 .idea/
 TODO-list.txt

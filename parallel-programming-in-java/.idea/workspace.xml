@@ -13,70 +13,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReciprocalArraySum.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
+      <file leaf-file-name="OneDimAveragingPhaser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="195" column="1" selection-start-line="195" selection-start-column="1" selection-end-line="216" selection-end-column="19" />
+            <state relative-caret-position="118">
+              <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Student.java">
+      <file leaf-file-name="Phaser.java" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/j2ee/env/java/jdk1.8/src.zip!/java/util/concurrent/Phaser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentAnalytics.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1255">
-              <caret line="107" column="82" lean-forward="true" selection-start-line="107" selection-start-column="82" selection-end-line="107" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentAnalyticsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/StudentAnalyticsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="62" />
+            <state relative-caret-position="344">
+              <caret line="444" column="49" selection-start-line="444" selection-start-column="29" selection-end-line="444" selection-end-column="49" />
               <folding>
-                <element signature="e#2704#2705#0" expanded="true" />
-                <element signature="e#2757#2758#0" expanded="true" />
-                <element signature="e#4434#4435#0" expanded="true" />
-                <element signature="e#4496#4497#0" expanded="true" />
-                <element signature="e#6270#6271#0" expanded="true" />
-                <element signature="e#6333#6334#0" expanded="true" />
+                <element signature="e#25111#25112#0" expanded="true" />
+                <element signature="e#25155#25156#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Setup.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Setup.java">
+      <file leaf-file-name="OneDimAveragingPhaserTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReciprocalArraySumTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="136" column="33" lean-forward="true" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="677">
+              <caret line="130" column="46" selection-start-line="130" selection-start-column="46" selection-end-line="130" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -86,6 +49,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>numTasks</find>
+      <find>next</find>
     </findStrings>
     <replaceStrings>
       <replace>nt</replace>
@@ -110,7 +74,11 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Setup.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/StudentAnalyticsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/MatrixMultiply.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java" />
       </list>
     </option>
   </component>
@@ -147,7 +115,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="39" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -260,12 +230,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReciprocalArraySumTest.testParManyTaskTwoMillion">
+  <component name="RunManager" selected="JUnit.OneDimAveragingPhaserTest.testFuzzyBarrier">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MatrixMultiplyTest.testPar512_x_512" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parallel-programming-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.MatrixMultiplyTest" />
+      <option name="METHOD_NAME" value="testPar512_x_512" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MatrixMultiplyTest.testPar768_x_768" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parallel-programming-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.MatrixMultiplyTest" />
+      <option name="METHOD_NAME" value="testPar768_x_768" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="OneDimAveragingPhaserTest.testFuzzyBarrier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parallel-programming-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.OneDimAveragingPhaserTest" />
+      <option name="METHOD_NAME" value="testFuzzyBarrier" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parallel-programming-in-java" />
@@ -290,29 +329,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parallel-programming-in-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.coursera.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
-      <option name="METHOD_NAME" value="testCountNumberOfFailedStudentsOlderThan20" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parallel-programming-in-java" />
       <extension name="coverage">
@@ -326,52 +342,6 @@
       <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
       <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
       <option name="METHOD_NAME" value="testCountNumberOfFailedStudentsOlderThan20Perf" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parallel-programming-in-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.coursera.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
-      <option name="METHOD_NAME" value="testMostCommonFirstNameOfInactiveStudents" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudentsPerf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parallel-programming-in-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.coursera.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
-      <option name="METHOD_NAME" value="testMostCommonFirstNameOfInactiveStudentsPerf" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -436,19 +406,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudents" />
-      <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudentsPerf" />
-      <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" />
       <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" />
       <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoMillion" />
+      <item itemvalue="JUnit.MatrixMultiplyTest.testPar512_x_512" />
+      <item itemvalue="JUnit.MatrixMultiplyTest.testPar768_x_768" />
+      <item itemvalue="JUnit.OneDimAveragingPhaserTest.testFuzzyBarrier" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OneDimAveragingPhaserTest.testFuzzyBarrier" />
+        <item itemvalue="JUnit.MatrixMultiplyTest.testPar768_x_768" />
+        <item itemvalue="JUnit.MatrixMultiplyTest.testPar512_x_512" />
         <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoMillion" />
         <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" />
-        <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" />
-        <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudentsPerf" />
-        <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudents" />
       </list>
     </recent_temporary>
   </component>
@@ -463,47 +433,47 @@
       <option name="presentableId" value="Default" />
       <updated>1545281392178</updated>
       <workItem from="1545281411532" duration="17876000" />
-      <workItem from="1545442348536" duration="4610000" />
+      <workItem from="1545442348536" duration="11442000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentAnalyticsTest_testCountNumberOfFailedStudentsOlderThan20 - 2018.12.22 at 10h 42m 30s.xml">
-      <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" configurationId="JUnit" />
+    <history-entry file="MatrixMultiplyTest_testPar512_x_512 - 2018.12.22 at 14h 50m 38s.xml">
+      <configuration name="MatrixMultiplyTest.testPar512_x_512" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentAnalyticsTest_testCountNumberOfFailedStudentsOlderThan20Perf - 2018.12.22 at 10h 42m 35s.xml">
-      <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" configurationId="JUnit" />
+    <history-entry file="MatrixMultiplyTest_testPar512_x_512 - 2018.12.22 at 14h 51m 11s.xml">
+      <configuration name="MatrixMultiplyTest.testPar512_x_512" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentAnalyticsTest_testCountNumberOfFailedStudentsOlderThan20Perf - 2018.12.22 at 10h 44m 17s.xml">
-      <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" configurationId="JUnit" />
+    <history-entry file="MatrixMultiplyTest_testPar512_x_512 - 2018.12.22 at 14h 53m 49s.xml">
+      <configuration name="MatrixMultiplyTest.testPar512_x_512" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 28s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    <history-entry file="MatrixMultiplyTest_testPar768_x_768 - 2018.12.22 at 14h 56m 53s.xml">
+      <configuration name="MatrixMultiplyTest.testPar768_x_768" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 50s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    <history-entry file="MatrixMultiplyTest_testPar768_x_768 - 2018.12.22 at 15h 08m 02s.xml">
+      <configuration name="MatrixMultiplyTest.testPar768_x_768" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 54s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest_testFuzzyBarrier - 2018.12.22 at 17h 00m 16s.xml">
+      <configuration name="OneDimAveragingPhaserTest.testFuzzyBarrier" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 57s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest_testFuzzyBarrier - 2018.12.22 at 17h 02m 04s.xml">
+      <configuration name="OneDimAveragingPhaserTest.testFuzzyBarrier" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 49m 00s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest_testFuzzyBarrier - 2018.12.22 at 17h 07m 31s.xml">
+      <configuration name="OneDimAveragingPhaserTest.testFuzzyBarrier" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 49m 10s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest_testFuzzyBarrier - 2018.12.22 at 17h 09m 01s.xml">
+      <configuration name="OneDimAveragingPhaserTest.testFuzzyBarrier" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 49m 14s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest_testFuzzyBarrier - 2018.12.22 at 17h 11m 31s.xml">
+      <configuration name="OneDimAveragingPhaserTest.testFuzzyBarrier" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22486000" />
+    <option name="totallyTimeSpent" value="29318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1936" height="1066" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -523,7 +493,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.375803" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3436831" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892932" visible="true" weight="0.17963752" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
@@ -663,13 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -680,9 +643,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/StudentAnalyticsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
+        <state relative-caret-position="643">
           <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="62" />
           <folding>
             <element signature="e#2704#2705#0" expanded="true" />
@@ -697,15 +667,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1255">
-          <caret line="107" column="82" lean-forward="true" selection-start-line="107" selection-start-column="82" selection-end-line="107" selection-end-column="82" />
+        <state relative-caret-position="442">
+          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/ProcedureInt1D.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/MatrixMultiplyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="123" column="23" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="195" column="1" selection-start-line="195" selection-start-column="1" selection-end-line="216" selection-end-column="19" />
+        <state relative-caret-position="221">
+          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/PCDP.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="98" column="15" lean-forward="true" selection-start-line="98" selection-start-column="15" selection-end-line="98" selection-end-column="15" />
+          <folding>
+            <element signature="e#8688#8689#0" expanded="true" />
+            <element signature="e#8773#8774#0" expanded="true" />
+            <element signature="e#8840#8841#0" expanded="true" />
+            <element signature="e#8898#8899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/MatrixMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/j2ee/env/java/jdk1.8/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="1317" column="22" selection-start-line="1317" selection-start-column="22" selection-end-line="1317" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/j2ee/env/java/jdk1.8/src.zip!/java/util/concurrent/Phaser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="444" column="49" selection-start-line="444" selection-start-column="29" selection-end-line="444" selection-end-column="49" />
+          <folding>
+            <element signature="e#25111#25112#0" expanded="true" />
+            <element signature="e#25155#25156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="130" column="46" selection-start-line="130" selection-start-column="46" selection-end-line="130" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="114" lean-forward="true" selection-start-line="114" selection-end-line="114" />
         </state>
       </provider>
     </entry>

@@ -11,6 +11,12 @@ import java.util.concurrent.RecursiveAction;
  * Class wrapping methods for implementing reciprocal array sum in parallel.
  * <p>
  * In my cases. the answers are pretty environment sensitive.
+ * And hyper-threading can introduce performance issues.
+ *
+ * NOTE: The teaching staff claims projects' performance are not meant to be run on your local machine
+ * since different hardware environments vary greatly
+ *
+ * <p>
  * environment: 4 cores, 8 Threads (Hyper-Threading)
  * <p>
  * Test Case1 is easy.
