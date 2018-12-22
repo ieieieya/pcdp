@@ -12,12 +12,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ReciprocalArraySum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="103" column="11" lean-forward="true" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+            <state relative-caret-position="105">
+              <caret line="195" column="1" selection-start-line="195" selection-start-column="1" selection-end-line="216" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentAnalytics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1255">
+              <caret line="107" column="82" lean-forward="true" selection-start-line="107" selection-start-column="82" selection-end-line="107" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentAnalyticsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/StudentAnalyticsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="62" />
+              <folding>
+                <element signature="e#2704#2705#0" expanded="true" />
+                <element signature="e#2757#2758#0" expanded="true" />
+                <element signature="e#4434#4435#0" expanded="true" />
+                <element signature="e#4496#4497#0" expanded="true" />
+                <element signature="e#6270#6271#0" expanded="true" />
+                <element signature="e#6333#6334#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -25,8 +60,8 @@
       <file leaf-file-name="Setup.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Setup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="216">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,8 +72,8 @@
       <file leaf-file-name="ReciprocalArraySumTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="99" column="35" lean-forward="true" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+            <state relative-caret-position="320">
+              <caret line="136" column="33" lean-forward="true" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +107,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum2.java" />
         <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java" />
         <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Setup.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/StudentAnalyticsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java" />
       </list>
     </option>
   </component>
@@ -110,9 +147,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
@@ -121,6 +156,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,21 +217,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../miniproject_0/pcdp-core-0.0.4-SNAPSHOT.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/pcdp-core-0.0.4-SNAPSHOT.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15372671" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.24775225" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -232,29 +267,6 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ReciprocalArraySumTest.testParManyTaskTwoHundredMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="parallel-programming-in-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.coursera.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
-      <option name="METHOD_NAME" value="testParManyTaskTwoHundredMillion" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parallel-programming-in-java" />
       <extension name="coverage">
@@ -278,7 +290,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ReciprocalArraySumTest.testParSimpleTwoHundredMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parallel-programming-in-java" />
       <extension name="coverage">
         <pattern>
@@ -289,8 +301,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
-      <option name="METHOD_NAME" value="testParSimpleTwoHundredMillion" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
+      <option name="METHOD_NAME" value="testCountNumberOfFailedStudentsOlderThan20" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -301,7 +313,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ReciprocalArraySumTest.testParSimpleTwoMillion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parallel-programming-in-java" />
       <extension name="coverage">
         <pattern>
@@ -312,8 +324,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ReciprocalArraySumTest" />
-      <option name="METHOD_NAME" value="testParSimpleTwoMillion" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
+      <option name="METHOD_NAME" value="testCountNumberOfFailedStudentsOlderThan20Perf" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -324,7 +336,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SetupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudents" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="parallel-programming-in-java" />
       <extension name="coverage">
         <pattern>
@@ -335,9 +347,32 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.SetupTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
+      <option name="METHOD_NAME" value="testMostCommonFirstNameOfInactiveStudents" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudentsPerf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parallel-programming-in-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.coursera.parallel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.StudentAnalyticsTest" />
+      <option name="METHOD_NAME" value="testMostCommonFirstNameOfInactiveStudentsPerf" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -401,19 +436,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SetupTest" />
-      <item itemvalue="JUnit.ReciprocalArraySumTest.testParSimpleTwoMillion" />
-      <item itemvalue="JUnit.ReciprocalArraySumTest.testParSimpleTwoHundredMillion" />
+      <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudents" />
+      <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudentsPerf" />
+      <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" />
+      <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" />
       <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoMillion" />
-      <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoHundredMillion" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoMillion" />
-        <item itemvalue="JUnit.ReciprocalArraySumTest.testParManyTaskTwoHundredMillion" />
-        <item itemvalue="JUnit.ReciprocalArraySumTest.testParSimpleTwoMillion" />
-        <item itemvalue="JUnit.ReciprocalArraySumTest.testParSimpleTwoHundredMillion" />
-        <item itemvalue="JUnit.SetupTest" />
+        <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" />
+        <item itemvalue="JUnit.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" />
+        <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudentsPerf" />
+        <item itemvalue="JUnit.StudentAnalyticsTest.testMostCommonFirstNameOfInactiveStudents" />
       </list>
     </recent_temporary>
   </component>
@@ -427,79 +462,80 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545281392178</updated>
-      <workItem from="1545281411532" duration="16662000" />
+      <workItem from="1545281411532" duration="17876000" />
+      <workItem from="1545442348536" duration="4610000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 18h 53m 54s.xml">
+    <history-entry file="StudentAnalyticsTest_testCountNumberOfFailedStudentsOlderThan20 - 2018.12.22 at 10h 42m 30s.xml">
+      <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentAnalyticsTest_testCountNumberOfFailedStudentsOlderThan20Perf - 2018.12.22 at 10h 42m 35s.xml">
+      <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentAnalyticsTest_testCountNumberOfFailedStudentsOlderThan20Perf - 2018.12.22 at 10h 44m 17s.xml">
+      <configuration name="StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 28s.xml">
       <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 18h 54m 04s.xml">
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 50s.xml">
       <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 18h 54m 09s.xml">
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 54s.xml">
       <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 18h 54m 16s.xml">
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 48m 57s.xml">
       <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 18h 54m 46s.xml">
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 49m 00s.xml">
       <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 19h 08m 31s.xml">
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 49m 10s.xml">
       <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 19h 08m 36s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 19h 08m 53s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 19h 09m 13s.xml">
-      <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.20 at 19h 09m 18s.xml">
+    <history-entry file="ReciprocalArraySumTest_testParManyTaskTwoMillion - 2018.12.22 at 10h 49m 14s.xml">
       <configuration name="ReciprocalArraySumTest.testParManyTaskTwoMillion" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16662000" />
+    <option name="totallyTimeSpent" value="22486000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="0" y="0" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32995737" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.5010707" side_tool="true" weight="0.17803837" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993576" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32976446" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.375803" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892932" visible="true" weight="0.17803837" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32976446" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.375803" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892932" visible="true" weight="0.17963752" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32976446" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,51 +545,39 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qqzeng/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="510">
+          <caret line="33" column="23" lean-forward="true" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../miniproject_0/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/runtime/BaseTask.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-969">
-          <caret line="16" column="63" lean-forward="true" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../miniproject_0/junit-4.12.jar!/junit/framework/TestCase.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Setup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../miniproject_0/junit-4.12.jar!/junit/framework/Test.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="1649">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../miniproject_0/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/PCDP.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../miniproject_0/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/runtime/Runtime.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qqzeng/App.java" />
+    <entry file="jar://$PROJECT_DIR$/../miniproject_0/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/runtime/BaseTask.class" />
+    <entry file="jar://$PROJECT_DIR$/../miniproject_0/junit-4.12.jar!/junit/framework/TestCase.class" />
+    <entry file="jar://$PROJECT_DIR$/../miniproject_0/junit-4.12.jar!/junit/framework/Test.class" />
+    <entry file="jar://$PROJECT_DIR$/../miniproject_0/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/PCDP.class" />
+    <entry file="jar://$PROJECT_DIR$/../miniproject_0/pcdp-core-0.0.4-SNAPSHOT.jar!/edu/rice/pcdp/runtime/Runtime.class" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -596,40 +620,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Setup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="131" column="34" lean-forward="true" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
+        <state relative-caret-position="216">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/j2ee/env/java/jdk1.8/src.zip!/java/util/stream/DoubleStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="579" column="19" selection-start-line="579" selection-start-column="19" selection-end-line="579" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/j2ee/env/java/jdk1.8/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="852" column="25" selection-start-line="852" selection-start-column="15" selection-end-line="852" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/j2ee/env/java/jdk1.8/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="359" column="25" selection-start-line="359" selection-start-column="25" selection-end-line="359" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/j2ee/env/java/jdk1.8/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+          <folding>
+            <element signature="e#2837#2838#0" expanded="true" />
+            <element signature="e#2866#2867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ReciprocalArraySumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="99" column="35" lean-forward="true" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+        <state relative-caret-position="320">
+          <caret line="136" column="33" lean-forward="true" selection-start-line="136" selection-start-column="16" selection-end-line="136" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/Setup.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/StudentAnalyticsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="292">
+          <caret line="160" column="34" lean-forward="true" selection-start-line="160" selection-start-column="16" selection-end-line="160" selection-end-column="62" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2704#2705#0" expanded="true" />
+            <element signature="e#2757#2758#0" expanded="true" />
+            <element signature="e#4434#4435#0" expanded="true" />
+            <element signature="e#4496#4497#0" expanded="true" />
+            <element signature="e#6270#6271#0" expanded="true" />
+            <element signature="e#6333#6334#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/StudentAnalytics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1255">
+          <caret line="107" column="82" lean-forward="true" selection-start-line="107" selection-start-column="82" selection-end-line="107" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/ReciprocalArraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="103" column="11" lean-forward="true" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+        <state relative-caret-position="105">
+          <caret line="195" column="1" selection-start-line="195" selection-start-column="1" selection-end-line="216" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -650,7 +726,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -689,7 +765,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24775225" />
                 <option value="0.6" />
               </list>
             </option>
@@ -714,7 +790,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.24775225" />
               </list>
             </option>
           </splitter-proportions>

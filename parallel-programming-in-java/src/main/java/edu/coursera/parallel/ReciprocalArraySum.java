@@ -7,12 +7,12 @@ import java.util.concurrent.RecursiveAction;
 
 /**
  * minproject2 main file.
- *
+ * <p>
  * Class wrapping methods for implementing reciprocal array sum in parallel.
- *
+ * <p>
  * In my cases. the answers are pretty environment sensitive.
  * environment: 4 cores, 8 Threads (Hyper-Threading)
- *
+ * <p>
  * Test Case1 is easy.
  * Test Case2 most of time fails to pass which achieves 3.7 score, and occasionally jump to 4.8, i.e. the pass-line.
  */
